@@ -1,0 +1,55 @@
+{"data":
+    [
+        {"id":"MDEwOlJlcG9zaXRvcnkyOTU0MzQ5NjU=",
+            "name":"Covid-19 Analysis of India",
+            "createdAt":"2021-03",
+            "url":"https://github.com/harsh-vador/Covid-19",
+            "description":"Developed a Covid-19 program that help track the active cases,deaths and cured people in various states of India.","forkCount":2,
+            "stargazers":{"totalCount":3},
+            "languages":
+            [{"name":"Python",
+                "iconifyClass":"logos-python"}]},
+        
+        {"id":"MDEwOlJlcG9zaXRvcnkyNDUyMjc0MDY=",
+                    "name":"Policy-Renewal Web Automation",
+                    "createdAt":"2021-03",
+                    "url":"https://github.com/harsh-vador/web-automation",
+                    "description":"Designed a Python Program using Selenium. This program helped my dad to renew oriental insurance policies online using an automated system.",
+                    "forkCount":0,
+                    "stargazers":{"totalCount":3},
+                    "languages":[{"name":"Python","iconifyClass":"logos-python"}]},
+        
+        {"id":"MDEwOlJlcG9zaXRvcnkxODE0MTU2MDU=",
+            "name":"Lung Disease Classifier",
+            "createdAt":"2021-02",
+            "url":"#",
+            "description":"Analyzed the results of medical images on various algorithms. Implemented and trained our model with the best suited algorithm. Gave and elaborated analysis by data visualization and prepared a report.",
+            "forkCount":1,
+            "stargazers":{"totalCount":3},
+            "languages":[{"name":"Jupyter Notebook",
+                    "iconifyClass":"logos-jupyter"}]},
+
+        {"id":"MDEwOlJlcG9zaXRvcnkyODYxNjEwNDE=",
+            "name":"Tours & Travels","createdAt":"2020-10",
+            "url":"https://github.com/harsh-vador/choiceindiatours",
+            "description":"Designed a tours and travels page where one can see various tourist destinations & can even book a stay",
+            "forkCount":0,
+            "stargazers":{"totalCount":3},
+            "languages":[{"name":"PHP",
+                "iconifyClass":"logos-php"},
+                    {"name":"MySQL",
+                        "iconifyClass":"logos-mysql"}
+                ]},
+
+        {"id":"MDEwOlJlcG9zaXRvcnkyNDUxODc2NTk=",
+                    "name":"IOT Inventory Management System",
+                    "createdAt":"2019-12",
+                    "url":"https://github.com/het-parekh/IOT-Inventory-Issue-Return-System-",
+                    "description":"Utilized  programming capabilities in HTML,CSS,JavaScript and PHP.Ranked among the TOP 3 projects at a departmental level. ",
+                    "forkCount":0,
+                    "stargazers":{"totalCount":3},
+                    "languages":[{"name":"PHP",
+                        "iconifyClass":"logos-php"},
+                            {"name":"MySQL",
+                                "iconifyClass":"logos-mysql"}
+                        ]}]}

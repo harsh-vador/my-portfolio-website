@@ -52,7 +52,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using Angular and React",
+        "⚡ Building responsive website front end using React",
         "⚡ Implementing secure access to database",
         "⚡ Creating application backend in MySQL",
       ],
@@ -158,13 +158,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:sass",
           style: {
             color: "#CC6699",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
           },
         },
       ],

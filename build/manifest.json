@@ -1,0 +1,46 @@
+{
+  "name": "HarshPortfolio",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/portfolio/Harsh_Vador_36x36.jpg",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "/portfolio/Harsh_Vador_48x48.jpg",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "/portfolio/Harsh_Vador_72x72.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg",
+      "density": "1.5"
+    },
+    {
+      "src": "/portfolio/Harsh_Vador_96x96.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg",
+      "density": "2.0"
+    },
+    {
+      "src": "/portfolio/Harsh_Vador_144x144.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg",
+      "density": "3.0"
+    },
+    {
+      "src": "/portfolio/Harsh_Vador_192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg",
+      "density": "4.0"
+    }
+  ],
+  "short_name": "HarshPortfolio",
+  "start_url": ".",
+  "theme_color": "#000000"
+}

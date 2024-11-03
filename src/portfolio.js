@@ -402,8 +402,7 @@ const experience = {
     {
       title: "Work",
       experiences: [
-        /*
-		{
+        {
           title: "Associate AI Engineer",
           company: "Legato Health Technology",
           company_url: "https://legatohealthtech.com/",
@@ -414,7 +413,6 @@ const experience = {
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#0879bf",
         },
-		*/
       ],
     },
     {

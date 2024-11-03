@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "homepage": "https://harsh-vador.github.io",
   "scripts": {
-    "build": "react-scripts build",
+    "build": "npm run build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",

@@ -9,12 +9,12 @@ const settings = {
 const greeting = {
   title: "Harsh Vador",
   logo_name: "Harsh Vador",
-  nickname: "Full Stack Developer",
+  nickname: "Software Engineer",
   subTitle:
     "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
   resumeLink:
-    "https://drive.google.com/file/d/1OtaqgBxmjZ6zxkS7mN3yosuC8If85wKT/view?usp=sharing",
-  portfolio_repository: "https://github.com/harsh-vador",
+    "https://drive.google.com/file/d/1f8l5esnVNaDr0fzcYKPmzePcCGKr8m_i/view?usp=sharing",
+  portfolio_repository: "https://github.com/harsh-vador/",
 };
 
 const socialMediaLinks = [
@@ -188,7 +188,19 @@ const sLanguage = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
+      Stack: "JavaScript",
+      progressPercentage: "90%",
+    },
+    {
+      Stack: "Typecript",
+      progressPercentage: "85%",
+    },
+    {
       Stack: "ReactJS",
+      progressPercentage: "90%",
+    },
+    {
+      Stack: "NextJS",
       progressPercentage: "90%",
     },
     {
@@ -219,17 +231,12 @@ const sLanguage = {
       progressPercentage: "95%",
     },
     {
-      Stack: "JavaScript",
-      progressPercentage: "75%",
+      Stack: "Tailwind CSS",
+      progressPercentage: "95%",
     },
-
     {
       Stack: "jQuery",
       progressPercentage: "55%",
-    },
-    {
-      Stack: "C/C++",
-      progressPercentage: "40%",
     },
   ],
 };
@@ -238,14 +245,6 @@ const sLanguage = {
 const tools = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
-    {
-      Stack: "Visual Studio", //Insert stack or technology you have experience in
-      progressPercentage: "80%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Visual Studio Code", //Insert stack or technology you have experience in
-      progressPercentage: "85%", //Insert relative proficiency in percentage
-    },
     {
       Stack: "Google Firebase",
       progressPercentage: "95%",
@@ -396,21 +395,21 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I am a Final Year student pursuing Information Technology gaining experience from voluntary works on sites like stackoverflow, github and working as an intern.",
+    "I am a software engineer with around 2.5 years of professional experience, specializing in delivering robust solutions and actively contributing to open-source projects. My work reflects a commitment to practical problem-solving and continuous learning in the field.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
+          title: "Software Engineer",
+          company: "Deuex Solutions Pvt Ltd",
+          company_url: "https://deuexsolutions.com/",
+          logo_path: "deuex.svg",
+          duration: "June 2022 - PRESENT",
+          location: "Mumbai, Maharashtra",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Currently working on uWorc, an Uber project as a Software Engineer, with technologies such as React JS along with their own designed UI framework, Base UI.\n Worked upon Open-Source project OpenMetaData where I was responsible for building an UI for bigger data sets to provide better user experience. \n Built a whole documentation site for Open Source OpenMetadata Project within 2 months. \n Worked on in-house HRMS application and key responsibilities was to make employees onboarding experience smoother. \n Using the cutting-edge technologies React Native and NodeJs, I created the mobile app GiverBox. For a nice user experience, I created an app walkthrough and made the app compatible with iOS as well. \n I developed the Clapperly app whose purpose was to book shoot locations PAN India with React Native and rtk-query. My focus was to build the UI, keeping the code clean along with a user-friendly design. Also, worked on features like location search and AR/ VR virtual tours.",
           color: "#0879bf",
         },
       ],
@@ -507,7 +506,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Harsh_Vador.jpg",
+    profile_image_path: "IMG_1269-1.jpg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with building various Web Applications as well as Basic Programming, ",
   },
@@ -526,7 +525,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91-9768514716",
+    subtitle: "+91-7977844671",
   },
 };
 

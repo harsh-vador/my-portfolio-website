@@ -29,7 +29,6 @@ class Contact extends Component {
                   src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
                   alt=""
                   style={{
-                    "margin-left": "200px",
                     "border-radius": "5px",
                     height: "30rem",
                   }}

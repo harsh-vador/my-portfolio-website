@@ -2,7 +2,6 @@
   "private": true,
   "name": "harsh-vador",
   "version": "0.1.0",
-  "homepage": "https://harsh-vador.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",

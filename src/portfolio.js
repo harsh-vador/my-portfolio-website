@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
   resumeLink:
-    "https://drive.google.com/file/d/1f8l5esnVNaDr0fzcYKPmzePcCGKr8m_i/view?usp=sharing",
+    "https://drive.google.com/file/d/13fA_OHbOX_8txoasXIwkuE0F497potlU/view?usp=sharing",
   portfolio_repository: "https://github.com/harsh-vador/",
 };
 
